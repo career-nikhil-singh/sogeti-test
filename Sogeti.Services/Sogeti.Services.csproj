@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sogeti.Models\Sogeti.Models.csproj" />
+    <ProjectReference Include="..\Sogeti.Repository\Sogeti.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
